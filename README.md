@@ -7,6 +7,7 @@ It should provide some idea of useful tools to represent and process conversatio
 ## Structure of the repository
 The repository is structured as follows:
 - `notebooks/`: This folder contains Jupyter notebooks that guide you through various NLP techniques and their application to social interaction data.
+- `additional_data/`: This folder contains word lists, annotations, dataframes with features that are sometimes required for certain assignments.
 
 The notebooks contain explanations, code examples, and exercises to help you understand the concepts and apply them.
-Every notebook also will come with a solution notebook that contains the solutions to the exercises.
+Every notebook also will come with a solution notebook that contains the solutions to the exercises. Solutions might be uploaded later.
