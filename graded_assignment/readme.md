@@ -11,6 +11,11 @@ Empathy dataset
 Template for submission
 - https://www.overleaf.com/read/frrrhwzsnrpf#b87098
 
+### Need Help?
+
+You can ask me any question during the practical session, for example if you are stuck with your code I can look at it or if you are interested in specific features. 
+You can also send me an e-mail if you are unsure about something or ask me after class. If you feel stuck with interpreting a figure or with your code you can also ask your fellow students for help.
+
 ### Teamwork & Task Desicion
 
 - you can work individually or in teams of 2 people. 
