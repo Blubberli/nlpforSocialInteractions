@@ -24,7 +24,7 @@ You can also send me an e-mail if you are unsure about something or ask me after
 ### (More) Feature Extraction Tools
 - LFTK (https://lftk.readthedocs.io/en/latest/): we used this, can extract part of speech patterns and metrics of lexical variation and readability
 - Elfen (https://elfen.readthedocs.io/en/latest/feature_overview.html): can also extract psycholinguistic and sentiment or emotion features (e.g., valence/arousal/dominance, emotion-related words)
-
+--> Note: the EPITOME dataset only contains 3084 unique seeker-post-response pairs but each pair is annotated with three different types of empathy. If you extract, for example linguistic features, you can do it once on the seeker posts and once on the responses and save the results (that saves computation time).
 ### Requirements / Notes on the Grading
 
 - You need to submit a PDF file of your report. Minimum 4 pages, maximum 8 pages 
