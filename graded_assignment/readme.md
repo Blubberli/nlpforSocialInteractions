@@ -21,6 +21,10 @@ You can also send me an e-mail if you are unsure about something or ask me after
 - you can work individually or in teams of 2 people. 
 - Decide on your task until Tuesday, December 16th. Write me an e-mail with your decision, if you decide for variation on Reddit, specify the subreddits. If you work in a team let me know the names of your team members.
 
+### (More) Feature Extraction Tools
+- LFTK (https://lftk.readthedocs.io/en/latest/): we used this, can extract part of speech patterns and metrics of lexical variation and readability
+- Elfen (https://elfen.readthedocs.io/en/latest/feature_overview.html): can also extract psycholinguistic and sentiment or emotion features (e.g., valence/arousal/dominance, emotion-related words)
+
 ### Requirements / Notes on the Grading
 
 - You need to submit a PDF file of your report. Minimum 4 pages, maximum 8 pages 
